@@ -1,7 +1,8 @@
 import './Contact.css';
+import Typography from '@mui/material/Typography';
 
 function Contact() {
-    return <h1>Contact</h1>;
+    return <Typography>Contact</Typography>;
 }
 
 export default Contact;

@@ -1,7 +1,8 @@
 import './Footer.css';
+import Typography from '@mui/material/Typography';
 
 function Footer() {
-    return <h1>Footer</h1>;
+    return <Typography>Footer</Typography>;
 }
 
 export default Footer;

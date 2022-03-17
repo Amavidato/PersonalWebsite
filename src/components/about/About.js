@@ -1,7 +1,8 @@
 import './About.css';
+import Typography from '@mui/material/Typography';
 
 function About() {
-    return <h1>About</h1>;
+    return <Typography>About</Typography>;
 }
 
 export default About;
